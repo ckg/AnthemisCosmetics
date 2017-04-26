@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anthemis Cosmetics</string>
+    <string name="Title">Anthemis Natural Cosmetics</string>
+    <string name="Logo">If you can\'t eat it, don\'t put in on your face!</string>
+    <string name="Company_Short_Description">A small company that offers natural products for  healthy skin</string>
+    <string name="Company_Address">Ioannina,Greece</string>
+    <string name="Company_Full_Address">75 Dodonis St. Ioannina Epirus</string>
+    <string name="Products">Face and Body Care products</string>
+    <string name="ProductsList">Face and Eye creams, Face Serums, Body Lotions</string>
+    <string name="Facebook">www.facebook.com/anthemiscosmetics/</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anthemis Cosmetics</string>
+    <string name="Company_Address">Ιωάννινα,Ελλάδα</string>
+    <string name="Products">Προϊόντα Προσώπου και Σώματος</string>
+    <string name="Title">Φυσικά καλλυντικά Άνθεμις</string>
+    <string name="Facebook">www.facebook.com/anthemiscosmetics/</string>
+    <string name="Company_Short_Description">Μια μικρή εταιρεία που προσφέρει φυσικά προϊόντα για υγιές δέρμα</string>
+    <string name="Logo">Αν δεν μπορείτε να το φάτε, μην το βάζετε στο πρόσωπό σας!</string>
+    <string name="Company_Full_Address">Δωδώνης 75, Ιωάννινα Ήπειρος</string>
+    <string name="ProductsList">Κρέμες ματιών και προσώπου, Οροί προσώπου, Λοσιόν σώματος</string>
+</resources>
